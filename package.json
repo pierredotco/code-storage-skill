@@ -1,0 +1,14 @@
+{
+  "name": "@pierre/code-storage-skill",
+  "version": "0.1.0",
+  "description": "Install the Code Storage agent skill",
+  "type": "module",
+  "bin": {
+    "code-storage-skill": "./bin/install.js"
+  },
+  "files": [
+    "bin",
+    "skill"
+  ],
+  "license": "MIT"
+}
