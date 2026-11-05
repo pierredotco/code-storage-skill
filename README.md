@@ -22,7 +22,7 @@ If `npx` is not available, install manually with `curl`:
 
 ```sh
 mkdir -p ~/.claude/skills/code-storage ~/.codex/skills/code-storage ~/.agents/skills/code-storage
-curl -fsSL https://raw.githubusercontent.com/pierre/code-storage-skill/main/skill/SKILL.md -o ~/.claude/skills/code-storage/SKILL.md
-curl -fsSL https://raw.githubusercontent.com/pierre/code-storage-skill/main/skill/SKILL.md -o ~/.codex/skills/code-storage/SKILL.md
-curl -fsSL https://raw.githubusercontent.com/pierre/code-storage-skill/main/skill/SKILL.md -o ~/.agents/skills/code-storage/SKILL.md
+curl -fsSL https://raw.githubusercontent.com/pierredotco/code-storage-skill/main/skill/SKILL.md -o ~/.claude/skills/code-storage/SKILL.md
+curl -fsSL https://raw.githubusercontent.com/pierredotco/code-storage-skill/main/skill/SKILL.md -o ~/.codex/skills/code-storage/SKILL.md
+curl -fsSL https://raw.githubusercontent.com/pierredotco/code-storage-skill/main/skill/SKILL.md -o ~/.agents/skills/code-storage/SKILL.md
 ```
